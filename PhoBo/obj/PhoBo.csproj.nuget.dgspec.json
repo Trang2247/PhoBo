@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NET Project\\PhoBo\\PhoBo\\PhoBo.csproj": {}
+    "D:\\ChuyenNganh7\\PRN221-Advanced Cross-Platform Application Programming With .NET\\Code\\GroupExam\\PhoBo\\PhoBo\\PhoBo\\PhoBo.csproj": {}
   },
   "projects": {
-    "E:\\NET Project\\PhoBo\\PhoBo\\PhoBo.csproj": {
+    "D:\\ChuyenNganh7\\PRN221-Advanced Cross-Platform Application Programming With .NET\\Code\\GroupExam\\PhoBo\\PhoBo\\PhoBo\\PhoBo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NET Project\\PhoBo\\PhoBo\\PhoBo.csproj",
+        "projectUniqueName": "D:\\ChuyenNganh7\\PRN221-Advanced Cross-Platform Application Programming With .NET\\Code\\GroupExam\\PhoBo\\PhoBo\\PhoBo\\PhoBo.csproj",
         "projectName": "PhoBo",
-        "projectPath": "E:\\NET Project\\PhoBo\\PhoBo\\PhoBo.csproj",
-        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "E:\\NET Project\\PhoBo\\PhoBo\\obj\\",
+        "projectPath": "D:\\ChuyenNganh7\\PRN221-Advanced Cross-Platform Application Programming With .NET\\Code\\GroupExam\\PhoBo\\PhoBo\\PhoBo\\PhoBo.csproj",
+        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
+        "outputPath": "D:\\ChuyenNganh7\\PRN221-Advanced Cross-Platform Application Programming With .NET\\Code\\GroupExam\\PhoBo\\PhoBo\\PhoBo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
